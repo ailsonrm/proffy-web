@@ -7,10 +7,10 @@
   <img alt="Ailson Ramos Moreira" src="https://img.shields.io/badge/-Ailson%20R.%20Moreira-8257E5?style=flat&logo=linkedin"/>
   </a>
 
-  <a href="https://github.com/ailsonrm/proffy/commits/master">
+  <a href="https://github.com/ailsonrm/proffy-web/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ailsonrm/proffy-web?color=774DD6&logo=github">
   </a> 
-   <a href="https://github.com/ailsonrm/proffy/stargazers">
+   <a href="https://github.com/ailsonrm/proffy-web/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/ailsonrm/proffy-web?color=774DD6&logo=github">
   </a>
 </p>
