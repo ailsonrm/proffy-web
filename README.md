@@ -25,12 +25,16 @@
 - [:floppy_disk: Run Web Project](#floppy_disk-run-web-project)
 - [:page_with_curl: License](#page_with_curl-license)
 
+----
+
 ### :camera: App Screenshot's
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
     <img alt="" src=".github/proffy_web_landing_page.png?raw=true" width="350px">
     <img alt="" src=".github/proffy_web_study_page.png?raw=true" width="350px" style="margin-left:12px;">
 </div>
+
+----
 
 ### :computer: Technologies
 
@@ -43,6 +47,8 @@ This project was made using the follow technologies:
   <li><a href="https://reactnative.dev/">React Native</a></li>
   <li><a href="https://expo.io/">Expo</a></li>
 </ul>
+
+----
 
 ### :floppy_disk: Run Web Project
 
@@ -58,6 +64,8 @@ $ yarn start or npm run start
 ```
 
 Go to http://localhost:3000/ to see the result.
+
+----
 
 ### :page_with_curl: License
 
