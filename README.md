@@ -30,8 +30,8 @@
 ### :camera: App Screenshot's
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-    <img alt="" src=".github/proffy_web_landing_page.png?raw=true" width="350px">
-    <img alt="" src=".github/proffy_web_study_page.png?raw=true" width="350px" style="margin-left:12px;">
+    <img alt="" src=".github/proffy_web_landing_page_.png?raw=true" width="350px">
+    <img alt="" src=".github/proffy_web_study_page_.png?raw=true" width="350px" style="margin-left:12px;">
 </div>
 
 ----
